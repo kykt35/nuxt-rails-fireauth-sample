@@ -9,5 +9,5 @@ Authorization: Bearer {{token}}
 ###
 GET http://localhost:3010/articles HTTP/1.1
 content-type: application/json
-Authorization: Bearer invalid.aaaaaaaaa.Pv5bDitj2dmPOzwIWJ9DEi3TGzsAld6xD59lxDOHZP83dtSi0PXkKlmCgyX9QAu8zYY3bd-s_j6rVOi3UKL0196RyS8kRH4uRFasZtELHimWAG6cY7j4Az3coGDxjWY_8XpDAc9D4p9DUa4oUqEtQnrw-HO0Jd6HGBSTOQMX04AoiyHfoxbKhxS6AApSmp9GQ16RMaUpySIKoZM_X-1bLFjTlUXl1Faz7il-DPR1Ac98XLmEIFLWj18NmEEWaF7vnn5TQYRwQA3ygLxLPNSc1uB8Xn7OlLJvopKRFcDPIgnNqV6Uga-5x1xKObv3BBwDJ9zDuH8ibI-sMhuB0e8cYg
+Authorization: Bearer invalid
 
